@@ -1,0 +1,19 @@
+# Ignore common IDE and system files globally
+**/*.iml
+**/.gradle
+**/local.properties
+**/.DS_Store
+
+# Ignore Android Studio specific files globally
+**/.idea/caches
+**/.idea/libraries
+**/.idea/modules.xml
+**/.idea/workspace.xml
+**/.idea/navEditor.xml
+**/.idea/assetWizardSettings.xml
+
+# Ignore build outputs and intermediate files globally
+**/build/
+**/captures/
+**/.externalNativeBuild
+**/.cxx/
